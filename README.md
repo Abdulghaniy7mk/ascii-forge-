@@ -1,4 +1,3 @@
-# ascii-forge-
 # ascii-forge 🔥
 
 > Blazing fast terminal tools. Pure ASCII. No dependencies. Full vibes.
